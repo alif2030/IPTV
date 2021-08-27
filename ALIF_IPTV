@@ -168,8 +168,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English Movies", FX HD
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English Movies", & Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movies", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.png" group-title="English Movies", & Privé HD
