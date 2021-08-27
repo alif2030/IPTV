@@ -52,6 +52,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/s-oel28g1609784762485.jpg" group-title="Bangla", Alpona TV
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
+http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
@@ -76,6 +78,8 @@ http://103.205.133.18/hls/atnnews.m3u8
 http://103.205.133.48/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
 http://103.205.133.18/hls/gaanbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Bangla", RTV Music
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", BTV
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla", BTV Wrold
@@ -150,7 +154,10 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 ##English Movies
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiwKvEl.png" group-title="English Movies", Fox HD
