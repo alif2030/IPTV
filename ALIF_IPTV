@@ -182,6 +182,8 @@ https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary", HISTORY Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Documentary", Dust
+https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 
 ##English Movies
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
@@ -215,9 +217,6 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="English Movies", 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="English Movies", Dust
-https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qwHxh55.png" group-title="English Movies", Monster Movies
 https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
