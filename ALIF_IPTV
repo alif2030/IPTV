@@ -19,7 +19,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
-http://103.205.133.18/hls/deeptotv.m3u8
+http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
