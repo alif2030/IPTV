@@ -52,11 +52,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/s-oel28g1609784762485.jpg" group-title="Bangla", Alpona TV
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla", Ekattor TV
 http://103.205.133.18/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24
@@ -73,13 +70,10 @@ http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
 http://103.205.133.18/hls/atnnews.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
 http://103.205.133.48/hls/peacetv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangla", My Cinema
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
 http://103.205.133.18/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Bangla", RTV Music
@@ -96,10 +90,8 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha
 http://103.205.133.48/hls/chsj.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
@@ -119,20 +111,16 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://103.205.133.48/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Hindi", StarGold HD
 http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/10161
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD
 http://103.205.133.48/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/220px-SET_India_logo.svg.png" group-title="Hindi", Sony Entertainment Television 
 http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/10237
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
@@ -159,7 +147,6 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Hindi", Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8
 
@@ -171,21 +158,17 @@ http://tv.aliflailabd.com:8989/discovery/index.m3u8
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Documentary", National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary", Nat Geo WILD
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-
 #EXTINF:-1 tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary", HISTORY Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Documentary", Dust
 https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 
 ##English Movies
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
 http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies
@@ -210,23 +193,16 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png" group-title="English Movies", STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="English Movies", Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="English Movies", 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qwHxh55.png" group-title="English Movies", Monster Movies
 https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="English Movies", Movies Central
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="English Movies", Pluto TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="English Movies", Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
@@ -294,7 +270,6 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Mixt", Al Jazeera English
 http://ott-cdn.ucom.am/s23/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Mixt", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="Mixt", Al Sunnah (Medina)
@@ -302,7 +277,6 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Mixt", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Mixt", Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
