@@ -72,21 +72,17 @@ http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 http://103.205.133.18/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
 http://103.205.133.48/hls/peacetv.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg" group-title="Bangla", Movie BanglaTV
-http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangla", My Cinema
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
 http://103.205.133.18/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Bangla", RTV Music
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", BTV
-http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla", BTV Wrold
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", BTV
+http://103.106.2.149:13456/btv.m3u8
 
 ##Indian Bangla
 
@@ -111,8 +107,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 ##Hindi
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus SD
-http://103.205.133.48/hls/chsp.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Hindi", StarGold HD
