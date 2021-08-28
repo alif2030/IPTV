@@ -112,7 +112,7 @@ http://103.205.133.48/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Hindi", StarGold HD
-http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/10161
+http://172.16.172.78:8081/roarzone/75/chunks.m3u8?nimblesessionid=3417028&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDU6NTA6MDIgQU0maGFzaF92YWx1ZT1YeFNqY3lxUk9IeXoxcTduSzkxZUFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD
@@ -120,7 +120,7 @@ http://103.205.133.48/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/220px-SET_India_logo.svg.png" group-title="Hindi", Sony Entertainment Television 
-http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/10237
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
