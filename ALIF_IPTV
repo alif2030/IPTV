@@ -157,9 +157,8 @@ http://103.205.133.48/hls/dhoommusic.m3u8
 http://tv.aliflailabd.com:8989/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Documentary", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentary", Discovery Science
-http://bdiptv.net:8080/DiscoveryScience/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8080/DiscoveryScience/tracks-v1a1/mono.m3u8?token=6692dcef80bf40f121476d5439a7433edf9d4672-b1a1e68c3494954c0c9b4861801e40d4-1630150409-1630139609
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
