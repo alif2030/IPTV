@@ -125,7 +125,7 @@ http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/220px-SET_India_logo.svg.png" group-title="Hindi", Sony Entertainment Television 
-http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+http://172.16.172.78:8081/roarzone/38/chunks.m3u8?nimblesessionid=3618002&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjEgMjozNjoyMiBQTSZoYXNoX3ZhbHVlPTZhRk1Sb0ZCdEVCQ3dPdkxkV1h5WXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
