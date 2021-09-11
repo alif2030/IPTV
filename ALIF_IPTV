@@ -176,11 +176,11 @@ https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 ##English Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
-http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+http://103.81.104.118/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO
-http://tv2.ebox.live:8080/live/hbo.m3u8
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiwKvEl.png" group-title="English Movies", Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="English Movies", Fox Life HD
