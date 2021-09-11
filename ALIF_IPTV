@@ -21,7 +21,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
 http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#http://103.205.133.48/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
 http://103.205.133.48/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
@@ -103,9 +103,9 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Indian Bangla", Zee Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Indian Bangla", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Indian Bangla", Dhoom Music
@@ -130,12 +130,6 @@ http://172.16.172.78:8081/roarzone/38/chunks.m3u8?nimblesessionid=3618002&wmsAut
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGg6i93.png" group-title="Hindi", Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV
@@ -183,7 +177,7 @@ https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
 http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies
-http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiwKvEl.png" group-title="English Movies", Fox HD
