@@ -35,6 +35,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X66xj.jpg" group-title="Bangla", Duranto TV
+http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="Bangla", Bangla TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
