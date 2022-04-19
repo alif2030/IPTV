@@ -196,14 +196,7 @@ http://103.81.104.118/hls/axn.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO
 http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiwKvEl.png" group-title="English Movies", Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="English Movies", Fox Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="English Movies", Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English Movies", FX HD
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movies", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
