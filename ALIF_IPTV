@@ -16,9 +16,11 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://edge.thunderbd.com:8081/roarzone/51/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/51/chunks.m3u8?nimblesessionid=38694963&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNDo1MDozNyBQTSZoYXNoX3ZhbHVlPTB1aUtzcnNHTExiV3NZY1RoZUY4dmc9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
-http://edge.thunderbd.com:8081/roarzone/8/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/8/chunks.m3u8?nimblesessionid=38695393&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNDo1MTo1MiBQTSZoYXNoX3ZhbHVlPVZ2Z2xPMFdBQkR4LzZQckE1YUorYVE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 #http://103.205.133.48/hls/satv.m3u8
 
@@ -26,17 +28,24 @@ http://edge.thunderbd.com:8081/roarzone/8/chunks.m3u8
 http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
-http://edge.thunderbd.com:8081/roarzone/59/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/59/chunks.m3u8?nimblesessionid=38697320&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNDo1NzoxNCBQTSZoYXNoX3ZhbHVlPThSRFowYVBBUGxzQnkrd2J0VUpxWVE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="Bangla", Bijoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/PLAUfH4rN1O.png" group-title="Bangla", Desh TV
+http://edge.thunderbd.com:8081/roarzone/62/chunks.m3u8?nimblesessionid=38695807&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNDo1Mjo1MSBQTSZoYXNoX3ZhbHVlPTI4TG5FMm0vSHhtdENNV0QrN2NtbWc9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Bangla", MY TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdv7EjqEckyJYK8wXWx9xf7JtCI51yyws7w&usqp=CAU" group-title="Bangla", Ekattor TV
+http://edge.thunderbd.com:8081/roarzone/11/chunks.m3u8?nimblesessionid=38699474&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNTowNToxNCBQTSZoYXNoX3ZhbHVlPU4wRWQvd1lOY1R2Z3pvS0oyUlFZSUE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/5X66xj.jpg" group-title="Bangla", Duranto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
