@@ -103,7 +103,7 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha
-http://nbn.chowdhury-shaheb.com/live/nb-starjalsha/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=38702748&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNToxODo0MiBQTSZoYXNoX3ZhbHVlPWF6ZGtrc3ZmTjUzZHhha0Zzd2ttdlE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
 http://208.86.19.13:81/617.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
@@ -113,7 +113,7 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Indian Bangla", Zee Bangla
 http://nbn.chowdhury-shaheb.com/live/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=38702945&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNToxOTozOSBQTSZoYXNoX3ZhbHVlPXF6dFBYL1B3a0hjUENJK0NsMEtlTEE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo = "https://imgpile.com/images/58Mkc4.png" group-title = "Indian Bangla", Amar Bangla
