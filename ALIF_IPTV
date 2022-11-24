@@ -106,7 +106,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha
 http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=38702748&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNToxODo0MiBQTSZoYXNoX3ZhbHVlPWF6ZGtrc3ZmTjUzZHhha0Zzd2ttdlE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
-http://208.86.19.13:81/617.stream/index.m3u8
+http://localtv.dflix.live:8080/roarzone/31/mono.m3u8?token=1382d67d404f9ee50ae6460f25f332d70b4c9df1-ac125710aa71f20a7185dd52406dc0b8-1669317243-1669306443&remote=103.111.123.98
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
