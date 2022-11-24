@@ -7,7 +7,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://localtv.dflix.live:8080/roarzone/54/mono.m3u8
+http://localtv.dflix.live:8080/roarzone/54/mono.m3u8?token=c69e1e045a5eeb388e574a579cc6ef7c26b41c8d-154ad4c4f1452ba9c67c446e7d78bb71-1669316807-1669306007&remote=103.111.123.98
+
 #EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/styles/medium/public/ekushe%20tv_1.png" group-title="Bangla", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="Bangla", RTV HD
@@ -16,10 +17,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://localtv.dflix.live:8080/roarzone/51/mono.m3u8
+http://localtv.dflix.live:8080/dot_en/1/mono.m3u8?token=69db9ed1b996b21bf9a60a615bea6bba4c9d7cb8-48771e232fc1a7ae7a778dcbed7531ac-1669315606-1669304806&remote=103.111.123.98
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
-http://localtv.dflix.live:8080/roarzone/8/mono.m3u8
+http://localtv.dflix.live:8080/roarzone/8/mono.m3u8?token=b5923dd8b360dc6205fb7460deb918e5e98cb1fe-1c4619e2b8ab0f312875cc2804aa623e-1669316929-1669306129&remote=103.111.123.98
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 #http://103.205.133.48/hls/satv.m3u8
@@ -28,7 +29,7 @@ http://localtv.dflix.live:8080/roarzone/8/mono.m3u8
 http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
-http://localtv.dflix.live:8080/roarzone/59/mono.m3u8
+http://localtv.dflix.live:8080/roarzone/59/mono.m3u8?token=58233bc43de522c82a8089f30b0669419f182c07-99841c5f133accfe6cf22688a41d1b63-1669317005-1669306205&remote=103.111.123.98
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="Bangla", Bijoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
