@@ -50,9 +50,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangla", Channel 9
 http://edge.thunderbd.com:8081/roarzone/4/chunks.m3u8?nimblesessionid=38702310&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNToxNjo0NSBQTSZoYXNoX3ZhbHVlPTdRTnNZeGNQK3ZaV0U1d0xNOTB1WGc9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdv7EjqEckyJYK8wXWx9xf7JtCI51yyws7w&usqp=CAU" group-title="Bangla", Ekattor TV
 http://edge.thunderbd.com:8081/roarzone/11/chunks.m3u8?nimblesessionid=38699474&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjIgNTowNToxNCBQTSZoYXNoX3ZhbHVlPU4wRWQvd1lOY1R2Z3pvS0oyUlFZSUE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
 
@@ -95,10 +92,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangla", ATN News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Gazi TV-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Gazi TV-1
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Gazi TV-2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Gazi TV-2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
@@ -316,11 +313,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Mixt", Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
-###EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Mixt", Al Quran Al Kareem (Mecca)
-###http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-####EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="Mixt", Al Sunnah (Medina)
-###http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-
 
 
 
@@ -334,4 +326,7 @@ http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 
 
 
-
+###EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Mixt", Al Quran Al Kareem (Mecca)
+###http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+####EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="Mixt", Al Sunnah (Medina)
+###http://210.210.155.35/qwr9ew/s/s27/01.m3u8
