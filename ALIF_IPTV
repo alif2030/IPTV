@@ -318,10 +318,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 
 ## FM Radio
 
-EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s122537/images/logog.png" group-title="FM Radio", Radio Foorti
+EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s122537/images/logog.png" group-title="Mixt", Radio Foorti
 http://119.148.23.88:1021/;?@IPTVSoltuion
 
-EXTINF:-1 tvg-logo="https://www.radiotodaybd.fm/wp-content/uploads/2019/05/logoT-2.png" group-title="FM Radio", Radio Today
+EXTINF:-1 tvg-logo="https://www.radiotodaybd.fm/wp-content/uploads/2019/05/logoT-2.png" group-title="Mixt", Radio Today
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 
 
