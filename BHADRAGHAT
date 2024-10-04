@@ -135,14 +135,14 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Indian Bangla", Zee Bangla
+#EXTINF:-1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title ="Indian Bangla", Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 ###https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=TIcw4ujIJ64uKXNBqvTx4Q&expires=1728255327&user=edbb4b836a9d46d3a381755743eb9e32
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-#EXTINF:-1 tvg-logo = "https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain" group-title = "Indian Bangla", ABP Ananda
+#EXTINF:-1 tvg-logo = "https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain" group-title ="Indian Bangla", ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla", TV9 Bangla
