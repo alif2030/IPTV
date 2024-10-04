@@ -221,9 +221,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD
 https://freeott.site/discovery/Discovery_Channel.m3u8
 
-###EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD Bangla
-###http://103.81.104.118/hls/discovery.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Documentary", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 
