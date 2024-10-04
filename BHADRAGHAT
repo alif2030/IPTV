@@ -103,6 +103,8 @@ http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 ####http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="Bangla", MADANI BANGLA
+https://cloudflare2.iftyer23.workers.dev/c/@MadaniChannelBanglaLive.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCd1NsKK/moviebangla.jpg" group-title="Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -225,7 +227,7 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png", Animal Planet (Vietnam)
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
@@ -312,7 +314,10 @@ http://localtv.dflix.live:8080/dot_en/1/mono.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Mixt", Al Jazeera English
-http://ott-cdn.ucom.am/s23/index.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8?v=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Mixt", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Mixt", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
