@@ -30,7 +30,7 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 #http://103.205.133.48/hls/satv.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X0463VRpcpM/WEaaUATDuNI/AAAAAAAAFhw/UYHQuv64BGUhu6dcIerrb2HT7QbmKuQuwCLcB/s1600/asian-tv.jpg" group-title="Bangla", Asian TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFpsVXP0/100px-Asian-TV-Logo-svg.png" group-title="Bangla", Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
@@ -109,7 +109,7 @@ https://cloudflare2.iftyer23.workers.dev/c/@MadaniChannelBanglaLive.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCd1NsKK/moviebangla.jpg" group-title="Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Bangla", KIDS CREATION
+#EXTINF:-1 tvg-logo="https://appnapglobal.blob.core.windows.net/servicenin/uploads/custom-images/fvQOKfj9t6jRZnNCLFMlLOhDi8REqK8ZG8tHkBqZ.jpg" group-title="Bangla", KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Bangla", Gaan Bangla
