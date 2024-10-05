@@ -103,9 +103,6 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Gazi TV-2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://probashinews24.tv/images/logo.png" group-title="Bangla", PROBASHI TV 
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" group-title="Bangla", ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
@@ -115,10 +112,14 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangla", BTV Wrold
 http://172.105.123.238:18002/play/a038
 
+#EXTINF:-1 tvg-logo="https://probashinews24.tv/images/logo.png" group-title="Bangla", PROBASHI TV 
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="Bangla", Anando Tv
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Bangla", Me TV
 https://iptvbd.live/metv1080/1080.m3u8
-
-
 
 ##Indian Bangla
 
